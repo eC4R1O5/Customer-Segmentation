@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer Churn Analysis
 
 ## **Background: Understanding the Drivers Behind Customer Churn**
 
